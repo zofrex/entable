@@ -1,0 +1,7 @@
+[package]
+name = "entable"
+version = "0.1.0"
+authors = ["James 'zofrex' Sanderson <zofrex@gmail.com>"]
+
+[dependencies]
+regex = "^1.0.4"
